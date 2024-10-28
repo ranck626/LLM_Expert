@@ -1,4 +1,4 @@
-# LLM_Master
+# LLM_Expert
 
 You will become an expert in large language models.
 
