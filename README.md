@@ -9,6 +9,8 @@ You will become an expert in large language models.
 
 报名连接(https://aicarrier.feishu.cn/wiki/JuXvwHzGni2A2Rksd8Rczpvxngb)
 
+##入门岛
+
 第1关 L0G1000 Linux 基础知识
 
 https://blog.csdn.net/qq_52928908/article/details/143329988?spm=1001.2014.3001.5502
@@ -26,3 +28,9 @@ https://blog.csdn.net/qq_52928908/article/details/143332262?spm=1001.2014.3001.5
 第4关 L0G4000 玩转HF/魔搭/魔乐社区
 
 https://blog.csdn.net/qq_52928908/article/details/143333276?spm=1001.2014.3001.5502
+
+##基础岛
+
+第3关 L1G3000 浦语提示词工程实践
+
+https://blog.csdn.net/qq_52928908/article/details/143386126?spm=1001.2014.3001.5501
