@@ -34,3 +34,11 @@ https://blog.csdn.net/qq_52928908/article/details/143333276?spm=1001.2014.3001.5
 第3关 L1G3000 浦语提示词工程实践
 
 https://blog.csdn.net/qq_52928908/article/details/143386126?spm=1001.2014.3001.5501
+
+第4关 L1G4000 InternLM + LlamaIndex RAG 实践
+
+https://blog.csdn.net/qq_52928908/article/details/143440379?spm=1001.2014.3001.5501
+
+第5关 L1G5000 XTuner 微调个人小助手认知
+
+https://blog.csdn.net/qq_52928908/article/details/143440427?spm=1001.2014.3001.5501
