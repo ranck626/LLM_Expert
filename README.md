@@ -31,6 +31,10 @@ https://blog.csdn.net/qq_52928908/article/details/143333276?spm=1001.2014.3001.5
 
 ##基础岛
 
+第1关 L1G1000-书生大模型全链路开源体系
+
+https://blog.csdn.net/qq_52928908/article/details/143505608?sharetype=blogdetail&sharerId=143505608&sharerefer=PC&sharesource=qq_52928908&spm=1011.2480.3001.8118
+
 第3关 L1G3000 浦语提示词工程实践
 
 https://blog.csdn.net/qq_52928908/article/details/143386126?spm=1001.2014.3001.5501
