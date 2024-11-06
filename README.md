@@ -46,3 +46,7 @@ https://blog.csdn.net/qq_52928908/article/details/143440379?spm=1001.2014.3001.5
 第5关 L1G5000 XTuner 微调个人小助手认知
 
 https://blog.csdn.net/qq_52928908/article/details/143440427?spm=1001.2014.3001.5501
+
+第6关 L1G6000 OpenCompass 评测书生大模型实践
+
+https://blog.csdn.net/qq_52928908/article/details/143566967?sharetype=blogdetail&sharerId=143566967&sharerefer=PC&sharesource=qq_52928908&spm=1011.2480.3001.8118
