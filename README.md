@@ -35,6 +35,10 @@ https://blog.csdn.net/qq_52928908/article/details/143333276?spm=1001.2014.3001.5
 
 https://blog.csdn.net/qq_52928908/article/details/143505608?spm=1001.2014.3001.5502
 
+第2关 L1G2000-玩转书生「多模态对话」与「AI搜索」产品
+
+https://blog.csdn.net/qq_52928908/article/details/143616713?spm=1001.2014.3001.5502
+
 第3关 L1G3000 浦语提示词工程实践
 
 https://blog.csdn.net/qq_52928908/article/details/143386126?spm=1001.2014.3001.5501
