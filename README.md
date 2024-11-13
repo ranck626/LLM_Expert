@@ -53,4 +53,10 @@ https://blog.csdn.net/qq_52928908/article/details/143440427?spm=1001.2014.3001.5
 
 第6关 L1G6000 OpenCompass 评测书生大模型实践
 
+##进阶岛
+
+第4关 L2G4000 InternVL 多模态模型部署微调实践
+
+https://blog.csdn.net/qq_52928908/article/details/143750273?spm=1001.2014.3001.5502
+
 https://blog.csdn.net/qq_52928908/article/details/143566967?spm=1001.2014.3001.5501
