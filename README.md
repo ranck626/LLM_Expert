@@ -57,6 +57,10 @@ https://blog.csdn.net/qq_52928908/article/details/143566967?spm=1001.2014.3001.5
 
 ##进阶岛
 
+第3关 L2G3000 LMDeploy 量化部署进阶实践
+
+https://blog.csdn.net/qq_52928908/article/details/143891962?spm=1001.2014.3001.5501
+
 第4关 L2G4000 InternVL 多模态模型部署微调实践
 
 https://blog.csdn.net/qq_52928908/article/details/143750273?spm=1001.2014.3001.5502
