@@ -57,7 +57,7 @@ https://blog.csdn.net/qq_52928908/article/details/143566967?spm=1001.2014.3001.5
 
 ##进阶岛
 
-第2关 L2G2000 LMDeploy Lagent 自定义你的 Agent 智能体
+第2关 L2G2000 Lagent 自定义你的 Agent 智能体
 
 https://blog.csdn.net/qq_52928908/article/details/143998288?spm=1001.2014.3001.5502
 
