@@ -57,6 +57,10 @@ https://blog.csdn.net/qq_52928908/article/details/143566967?spm=1001.2014.3001.5
 
 ##进阶岛
 
+第2关 L2G2000 LMDeploy Lagent 自定义你的 Agent 智能体
+
+https://blog.csdn.net/qq_52928908/article/details/143998288?spm=1001.2014.3001.5502
+
 第3关 L2G3000 LMDeploy 量化部署进阶实践
 
 https://blog.csdn.net/qq_52928908/article/details/143891962?spm=1001.2014.3001.5501
