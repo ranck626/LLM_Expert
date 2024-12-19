@@ -57,6 +57,10 @@ https://blog.csdn.net/qq_52928908/article/details/143566967?spm=1001.2014.3001.5
 
 ##进阶岛
 
+第1关 L2G1000 探索书生大模型能力边界
+
+https://pibbgc50dr.feishu.cn/docx/GVIMd5rffoIEzIxPu92cglaXnDb?from=from_copylink
+
 第2关 L2G2000 Lagent 自定义你的 Agent 智能体
 
 https://blog.csdn.net/qq_52928908/article/details/143998288?spm=1001.2014.3001.5502
@@ -68,3 +72,12 @@ https://blog.csdn.net/qq_52928908/article/details/143891962?spm=1001.2014.3001.5
 第4关 L2G4000 InternVL 多模态模型部署微调实践
 
 https://blog.csdn.net/qq_52928908/article/details/143750273?spm=1001.2014.3001.5502
+
+第5关 L2G5000 茴香豆：企业级知识库问答工具
+
+取消
+
+第6关 L2G6000 MindSearch 快速部署
+
+https://blog.csdn.net/qq_52928908/article/details/144367380?spm=1001.2014.3001.5502
+
